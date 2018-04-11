@@ -1,0 +1,22 @@
+{
+  "name": "crud-example",
+  "version": "1.0.0",
+  "description": "A basic CRUD operation in node, express",
+  "main": "main",
+  "scripts": {
+    "start": "node main.js",
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "crud"
+  ],
+  "author": "Chikku",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongojs": "^2.5.0"
+  }
+}
